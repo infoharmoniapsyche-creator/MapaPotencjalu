@@ -1,0 +1,83 @@
+[
+  {
+    "kraina": "Wartości",
+    "title": "Autentyczność",
+    "icon": "🌿",
+    "narration": "Bycie sobą to akt odwagi i szczerości, który pozwala Ci żyć zgodnie ze swoim wnętrzem.",
+    "tip": "Zastanów się, kiedy ostatnio czułeś/aś się w pełni sobą.",
+    "question": "Co Cię powstrzymuje przed pełnym wyrażaniem siebie?",
+    "experiment": "Spróbuj dziś zrobić jedno drobne działanie w pełni zgodne z tym, kim jesteś."
+  },
+  {
+    "kraina": "Wartości",
+    "title": "Rozwój",
+    "icon": "🔥",
+    "narration": "Rozwój to proces; każdy krok uczy Cię czegoś ważnego o Tobie.",
+    "tip": "Wybierz jedną umiejętność, którą chcesz rozwijać.",
+    "question": "Jakie małe kroki przybliżą mnie do wzrostu?",
+    "experiment": "Zrób 15 minut ćwiczenia rozwojowego codziennie przez tydzień."
+  },
+  {
+    "kraina": "Wartości",
+    "title": "Spokój",
+    "icon": "🌊",
+    "narration": "Spokój to uważność w działaniu — obecność, która porządkuje energię.",
+    "tip": "Znajdź 5 minut ciszy dziennie.",
+    "question": "Co pomaga Ci się uspokoić na co dzień?",
+    "experiment": "Wprowadź 5-minutowe okno ciszy przed ważnym zadaniem."
+  },
+  {
+    "kraina": "Talenty",
+    "title": "Komunikacja",
+    "icon": "💬",
+    "narration": "Masz dar przekładania myśli na słowa, które budują zrozumienie.",
+    "tip": "Ćwicz klarowność w jednej rozmowie dziennie.",
+    "question": "Kiedy Twoje słowa mają największą moc?",
+    "experiment": "Zrób krótką prezentację dla jednej osoby i poproś o feedback."
+  },
+  {
+    "kraina": "Talenty",
+    "title": "Analiza",
+    "icon": "🧩",
+    "narration": "Dostrzegasz wzory i logikę tam, gdzie inni widzą chaos.",
+    "tip": "Używaj analizy, by wyłuskać najważniejsze wnioski.",
+    "question": "Jak możesz uprościć skomplikowane informacje?",
+    "experiment": "Sporządź krótki raport z wnioskami z ostatniego projektu."
+  },
+  {
+    "kraina": "Cienie",
+    "title": "Perfekcjonizm",
+    "icon": "🔥",
+    "narration": "Perfekcjonizm chroni przed oceną, ale paraliżuje ruch.",
+    "tip": "Ustal \\\"minimum akceptowalne\\\" dla zadania.",
+    "question": "Co tracisz, dążąc do perfekcji?",
+    "experiment": "Wykonaj jedno zadanie w wersji 'good enough' i zanotuj rezultat."
+  },
+  {
+    "kraina": "Cienie",
+    "title": "Prokrastynacja",
+    "icon": "🕳️",
+    "narration": "Czasem to ochrona przed porażką; poznaj mechanizm i zastosuj strukturę.",
+    "tip": "Stosuj Pomodoro (25/5).",
+    "question": "Co najczęściej odkładasz i dlaczego?",
+    "experiment": "Daj sobie 10 minut na start — zobacz, co się stanie."
+  },
+  {
+    "kraina": "Wizja",
+    "title": "Tworzyć",
+    "icon": "🌅",
+    "narration": "Tworzenie to pragnienie pozostawienia śladu; wizja budująca projekty i dzieła.",
+    "tip": "Zdefiniuj mały pilot projektu.",
+    "question": "Co chcesz stworzyć, co odzwierciedla Twoje wartości?",
+    "experiment": "Zrób pierwszy prototyp i poproś o feedback."
+  },
+  {
+    "kraina": "Wizja",
+    "title": "Wspierać",
+    "icon": "🌳",
+    "narration": "Wspieranie innych to droga budowania trwałych przemian.",
+    "tip": "Wybierz jedną osobę lub grupę, którym regularnie pomożesz.",
+    "question": "Jakie działania wspierające będą miały realny efekt?",
+    "experiment": "Uruchom mały program wsparcia pilotażowo."
+  }
+]
